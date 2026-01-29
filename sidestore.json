@@ -10,7 +10,9 @@
       "versionDate": "2026-01-30T00:00:00Z",
       "size": 185000000,
       "downloadURL": "https://github.com/SwitU7Ronald/YTLite/releases/download/v21.04.2-5.2b4/C2_YTLite_v21.04.2-v5.2b4.ipa",
-      "localizedDescription": "YouTube Lite (YTLite) distributed by C2-BAR."
+      "localizedDescription": {
+        "en": "YouTube Lite (YTLite) distributed by C2-BAR."
+      }
     },
     {
       "name": "YouTube Lite Plus",
@@ -20,7 +22,9 @@
       "versionDate": "2026-01-30T00:00:00Z",
       "size": 195000000,
       "downloadURL": "https://github.com/SwitU7Ronald/YTLitePlus/releases/download/v21.04.2-5.0.1/C2_YTLitePlus_v21.04.2-v5.0.1.ipa",
-      "localizedDescription": "YouTube Lite Plus with extended features by C2-BAR."
+      "localizedDescription": {
+        "en": "YouTube Lite Plus with extended features by C2-BAR."
+      }
     }
   ]
 }
