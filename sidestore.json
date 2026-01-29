@@ -9,7 +9,6 @@
       "version": "21.04.2-5.2b4",
       "versionDate": "2026-01-30",
       "downloadURL": "https://github.com/SwitU7Ronald/YTLite/releases/download/v21.04.2-5.2b4/C2_YTLite_v21.04.2-v5.2b4.ipa",
-      "iconURL": "https://raw.githubusercontent.com/C2-BAR/C2-BAR/main/icons/ytlite.png",
       "localizedDescription": "YouTube Lite build distributed by C2-BAR."
     },
     {
@@ -19,7 +18,6 @@
       "version": "21.04.2-5.0.1",
       "versionDate": "2026-01-30",
       "downloadURL": "https://github.com/SwitU7Ronald/YTLitePlus/releases/download/v21.04.2-5.0.1/C2_YTLitePlus_v21.04.2-v5.0.1.ipa",
-      "iconURL": "https://raw.githubusercontent.com/C2-BAR/C2-BAR/main/icons/ytliteplus.png",
       "localizedDescription": "YouTube Lite Plus with extended features by C2-BAR."
     }
   ]
